@@ -1,3 +1,3 @@
 # Basic Python Coding
-Excerise to code Python programs
+Exercise to code Python programs
  
